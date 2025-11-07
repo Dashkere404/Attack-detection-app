@@ -1,0 +1,37 @@
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.scc
+
+# Build folders
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Executables
+*.exe
+*.out
+
+# IDE
+.vs/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*~
